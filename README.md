@@ -51,6 +51,6 @@ To inspire individuals with minds and hearts imbued with Catholic, Jesuit, and F
 <iframe width="560" height="315" src="https://www.youtube.com/embed/taeFh0QKf3s?si=teAOGcqYVqdo6cwm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Source:
 
+Source:
 [JHS Student Handbook](https://drive.google.com/file/d/1eEaPVe7t1elbX4zC3-An-C0VsZHvaDQE/view)
